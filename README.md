@@ -1,5 +1,5 @@
 # csvFileConvertor
-Script that converting the data in .csv files to json format
+Script that converts the data in .csv files to json format
 
 example: <br>
 <b> Entered .csv file name: data.csv </b>( csv file ) <br>
